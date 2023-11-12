@@ -48,3 +48,13 @@ Software Development Engineer with a competitive programming background
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahmoudgamal92&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
+
+echo "# text-repo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github
