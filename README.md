@@ -67,7 +67,6 @@ Hi! I’m **Mahmoud Gamal**, a **Senior Software Developer** with **5+ years of 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=mahmoudgamal92&theme=dark&background=000000" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudgamal92&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </div>
 
 ---
@@ -83,8 +82,8 @@ Hi! I’m **Mahmoud Gamal**, a **Senior Software Developer** with **5+ years of 
   </a>
 </div>
 
-📧 **Email:** mahmoud.gamal.dev@gmail.com  
-📱 **Phone:** +20 106 363 4580 / +966 540 911 268  
+📧 **Email:** dev.mgamal@outlook.com / mahmoud.elshwaiukh@gmail.com
+📱 **Phone:** +201063634580 / +966540911268  
 
 ---
 
