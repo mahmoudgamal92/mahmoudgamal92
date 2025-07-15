@@ -1,56 +1,91 @@
-# Software Development Engineer | Senior React Native Developer
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-## 🔗 Connect with me:
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+# 🚀 Software Development Engineer | Senior React Native Developer
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" style="border-radius=10px"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
 </div>
 
-## 🛠️ Languages and Tools:
+## 👋 About Me
+Hi! I’m **Mahmoud Gamal**, a **Senior Software Developer** with **5+ years of experience** building robust, scalable, and high-performance mobile and web applications. I am passionate about crafting clean, maintainable code and delivering products that make a difference.
+
+💡 *Open to new opportunities and collaborations!*
+
+---
+
+## 🛠️ Core Skills & Technologies
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React.js" alt="React.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-## 🚀 Expertise:
-- **Mobile Development**: React Native, Expo, Firebase, Payment Gateway Integrations
-- **Front-end Development**: React.js, Next.js, Material UI, Tailwind CSS
-- **Back-end Development**: PHP (Native & Laravel), Node.js, MySQL
-- **Cloud & DevOps**: AWS, Firebase, GitHub Actions
-- **Software Engineering Principles**: SOLID, Clean Code, Performance Optimization
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=vision-friendly-dark)
+## 💼 Professional Experience
+
+- **Mobile Development:**
+  - React Native, Expo, Firebase
+  - State Management: Redux, MobX, Context API
+  - Navigation: React Navigation
+  - Animations: Reanimated, Lottie
+  - Push Notifications & Deep Linking
+  - Payment Gateway Integrations
+  - Testing: Jest, React Native Testing Library
+  - CI/CD workflows & App Distribution
+
+- **Front-End Development:**
+  - React.js, Next.js
+  - Modern UI Libraries: Material UI, Tailwind CSS
+  - Responsive and Accessible Design
+
+- **Back-End Development:**
+  - PHP (Native & Laravel), Node.js
+  - RESTful APIs, MySQL
+
+- **Cloud & DevOps:**
+  - AWS, Firebase, GitHub Actions
+  - CI/CD Pipelines, App Store & Play Store Deployment
+
+- **Best Practices:**
+  - SOLID Principles
+  - Clean Code
+  - Performance Optimization
+  - Test-Driven Development
 
 ---
-💡 *Passionate about building scalable and high-performance mobile and web applications. Open to new opportunities and collaborations!*
 
-### :fire: My Stats :
+## 🌟 GitHub Stats
 
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=mahmoudgamal92&theme=dark&background=000000" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudgamal92&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahmoudgamal92&theme=dark&background=000000)](https://git.io/streak-stats)
+---
+
+## 🔗 Connect with Me
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mahmoud-gamal-b928aa15b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/mahmoudgamal92">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</div>
+
+📧 **Email:** mahmoud.gamal.dev@gmail.com  
+📱 **Phone:** +20 106 363 4580 / +966 540 911 268  
+
+---
+
+💡 *Passionate about building scalable and high-performance mobile and web applications. Let’s connect and create something amazing together!*
