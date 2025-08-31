@@ -28,8 +28,25 @@ Hi! I’m **Mahmoud Gamal**, a **Senior Software Developer** with **5+ years of 
 
 ### **Other Experiences**
 - Worked on **Sharjah Museum Authority App**, implementing new features and fixing bugs.  
-- Developed **UrPay Merchant App**, integrating **payment solutions** and subscription services.  
+- Developed **UrPay Merchant & Consumer Apps**, integrating **payment solutions** and subscription services.  
 - Participated in developing **Al Rajhi Bank Global Payment Gateway**.  
+
+---
+
+## 🎓 Education
+
+- **Bachelor of Computer Science** – [Your University Name], [Graduation Year]  
+- Relevant Courses: Mobile Application Development, Web Development, Database Systems, Cloud Computing
+
+---
+
+## 🛠️ Technical Profile
+
+- **Mobile Development:** React Native, Expo, Redux, MobX, Context API, React Navigation, Reanimated, Lottie, Push Notifications, Deep Linking, Payment Gateway Integrations, Jest, React Native Testing Library, CI/CD workflows  
+- **Web Development:** React.js, Next.js, Material UI, Tailwind CSS, Responsive & Accessible Design  
+- **Backend Development:** PHP (Native & Laravel), Node.js, RESTful APIs, MySQL  
+- **Cloud & DevOps:** AWS, Firebase, GitHub Actions, App Store & Play Store Deployment  
+- **Best Practices:** SOLID Principles, Clean Code, Test-Driven Development, Performance Optimization
 
 ---
 
@@ -55,12 +72,11 @@ Hi! I’m **Mahmoud Gamal**, a **Senior Software Developer** with **5+ years of 
 
 | Project | Description | Tech Stack | Link |
 |---------|------------|------------|------|
-| **BHC Delivery App** | Delivery & tracking mobile app | React Native, Expo, Firebase | [GitHub](https://github.com/mahmoudgamal92) |
-| **BHC App** | Main Bnook Holding mobile app | React Native, PHP, MySQL | [GitHub](https://github.com/mahmoudgamal92) |
-| **Sharjah Museum Authority App** | Museum visitor app with interactive features | React Native, Node.js | [GitHub](https://github.com/mahmoudgamal92) |
-| **UrPay Merchant App** | Payment integration & subscription services | React Native, Firebase, Node.js | [GitHub](https://github.com/mahmoudgamal92) |
-| **Al Rajhi Bank Payment Gateway** | Global payment gateway system | React.js, Node.js, PHP | [GitHub](https://github.com/mahmoudgamal92) |
-| **Auction App (Freelance)** | Auction system with live events & multi-image upload | React Native, PHP, MySQL | [GitHub](https://github.com/mahmoudgamal92) |
+| **BHC Delivery App** | Delivery & tracking mobile app | React Native, Expo, Firebase | [Play Store](https://play.google.com/store/apps/details?id=com.bhc.delivery) |
+| **BHC App** | Main Bnook Holding mobile app | React Native, PHP, MySQL | [Play Store](https://play.google.com/store/search?q=bhc&c=apps) |
+| **Sharjah Museum Authority App** | Museum visitor app with interactive features | React Native, Node.js | [Website](https://www.sharjahmuseums.ae/en-US) |
+| **UrPay Consumer App** | Payment integration & subscription services | React Native, Firebase, Node.js | [Play Store](https://play.google.com/store/apps/details?id=com.urpay.consumer) |
+| **UrPay Merchant App** | Payment integration & subscription services | React Native, Firebase, Node.js | [Play Store](https://play.google.com/store/apps/details?id=com.urpay.merchant) |
 
 ---
 
