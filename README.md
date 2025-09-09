@@ -73,7 +73,7 @@ Proven ability to **collaborate across teams**, lead technical decisions, and tr
 
 ## 🎓 Education
 
-- **Bachelor of Computer Science** – Asyut University, Egypt (July 2020)  
+- **Bachelor of Computer Science** – Asyut University, Egypt (July 2019)  
   - Faculty of Computers and Information  
   - Major: Information Technology  
   - Graduation Project: *IoT Heart Patient Tracker* – **Excellent Grade, First Place**  
