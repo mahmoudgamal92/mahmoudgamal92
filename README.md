@@ -5,7 +5,9 @@
 </div>
 
 ## 👋 About Me
-Hi! I’m **Mahmoud Gamal**, a **Senior Software Developer** with **5+ years of experience** building robust, scalable, and high-performance **mobile and web applications**. I specialize in **React Native, React.js, and full-stack development**, with strong expertise in **state management, backend development, and cloud services**.  
+Senior Software Engineer with deep expertise in **JavaScript, React, React Native, Expo, and the MERN stack**, combined with strong foundations in **data structures, algorithms, and software architecture patterns**.  
+Skilled in designing and delivering **scalable, maintainable, and high-performance systems** that solve complex business problems. Adept at applying **clean code principles, SOLID design**, and modern architectural approaches to create seamless, cross-platform user experiences.  
+Proven ability to **collaborate across teams**, lead technical decisions, and translate challenging requirements into innovative, production-ready solutions.  
 
 💡 *Open to new opportunities and collaborations!*
 
@@ -13,44 +15,112 @@ Hi! I’m **Mahmoud Gamal**, a **Senior Software Developer** with **5+ years of 
 
 ## 🏢 Professional Experience
 
-### **Bnook Holding Company** *(Riyadh, Saudi Arabia | Remote | Aug 2019 – Jan 2024)*
-**Role:** Mobile Developer  
-**Highlights:**  
-- Developed **BHC Delivery App** and **BHC App** from scratch.  
-- Converted websites into **mobile apps with WebView**, integrating **downloads, uploads, and notifications**.  
-- Implemented **push notifications**, **payment integrations**, and **real-time updates**.  
-- Technologies: **React Native, Expo, Firebase, PHP, MySQL, Node.js**  
+### **Ejada Systems Ltd. | NeoLeap (Outsource) | Al Rajhi Bank (Outsource)**  
+*Senior React Native Developer | Riyadh, Saudi Arabia | Mar 2024 – Present*  
 
-### **Freelance Projects** *(Remote | 2024 – Present)*  
-- Built **auction applications**, **payment gateways**, and **dashboard systems**.  
-- Integrated **React Native mobile apps** with **native PHP dashboards**.  
-- Implemented **splash screens, live event components, and multi-image upload features**.  
+**Projects:** [NeoLeap Merchant Portal](https://business.neoleap.com.sa/merchant/ar/auth), [Urpay Merchant App](https://play.google.com/store/apps/details?id=com.urpay.merchant&hl=en), [Urpay Consumer App](https://play.google.com/store/search?q=urpay&c=apps&hl=en)  
 
-### **Other Experiences**
-- Worked on **Sharjah Museum Authority App**, implementing new features and fixing bugs.  
-- Developed **UrPay Merchant & Consumer Apps**, integrating **payment solutions** and subscription services.  
-- Participated in developing **Al Rajhi Bank Global Payment Gateway**.  
+- Revamped **Urpay Merchant App**, delivering a full **design & architecture overhaul**.  
+- Designed and shipped new features across multiple squads, improving performance, usability, and maintainability.  
+- Integrated **advanced payment solutions** including subscription services.  
+- Developed **native modules** in **Java (Android)** and **Objective-C/Swift (iOS)**.  
+- Redesigned the **Global Payment Gateway UI/UX**, streamlining transactions for merchants and consumers.  
+- Contributed to **React.js web solutions** with scalable architecture.  
+
+**Tech Stack:** React Native, React.js, Expo, Java, Swift, Objective-C, REST APIs, Payment Gateways, Git, Agile  
+
+---
+
+### **SGS – UAE | Cairo Branch**  
+*React Native Developer | Cairo, Egypt | Jan 2023 – Mar 2024*  
+
+**Projects:** Nishan Web Application, [Sharjah Museum Authority](https://www.sharjahmuseums.ae/)  
+
+- Implemented **new features** and resolved bugs for multiple apps.  
+- Built **native modules** in Java (Android) & Objective-C/Swift (iOS).  
+- Added **eCommerce features**: product catalog, cart, checkout, and payments.  
+- Converted **two websites into WebView apps**, adding **file upload/download** and **push notifications**.  
+- Contributed to **Nishan Web App** using MERN stack.  
+
+---
+
+### **ERSCO | Riyadh, Saudi Arabia**  
+*Mobile Developer | Jun 2021 – Aug 2022*  
+
+**Projects:** Aliina, [Wd App](https://apps.apple.com/ua/app/%D9%85%D9%86%D8%B5%D8%A9-%D9%88%D8%AF-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9/id6474127131), [Zawya](https://apps.apple.com/ua/app/zawya-%D8%B2%D9%88%D8%A7%D9%8A%D8%A9/id1661459286), Tmor, Al Rajhi Metal  
+
+- Built **Aliina multi-vendor eCommerce platform** with vendor management, product listings, and order tracking.  
+- Developed **Zawya app**, an offers/promotions aggregator with push notifications and social login.  
+- Created **Wd App** for real estate, integrating Google Maps, Geocoding & AutoComplete APIs.  
+- Integrated **real-time geolocation services** for mobile apps.  
+- Collaborated with backend & design teams to optimize performance.  
+
+**Tech Stack:** React Native, JavaScript, Google Maps API, Google Geocoding, Firebase, REST APIs, Git  
+
+---
+
+### **Bnook Holding Company | Riyadh, Saudi Arabia | Remote**  
+*Mobile Developer | Aug 2019 – Jan 2024*  
+
+**Projects:** [BHC Delivery App](https://play.google.com/store/apps/details?id=com.bhc.delivery), [BHC App](https://play.google.com/store/search?q=bhc&c=apps), [Bnook.net](https://bnookholding.com/), [BnookWater](http://bnookwater.com/)  
+
+- Developed and deployed **BHC Delivery App** and **BHC App** from scratch.  
+- Implemented **real-time delivery tracking, authentication, push notifications, and secure payments**.  
+- Converted websites into **mobile apps** with WebView, file upload/download, and push notifications.  
+- Maintained and enhanced **Bnook.net** and **BnookWater** (MERN stack).  
 
 ---
 
 ## 🎓 Education
 
-- **Bachelor of Computer Science** – [Your University Name], [Graduation Year]  
-- Relevant Courses: Mobile Application Development, Web Development, Database Systems, Cloud Computing
+- **Bachelor of Computer Science** – Asyut University, Egypt (July 2020)  
+  - Faculty of Computers and Information  
+  - Major: Information Technology  
+  - Graduation Project: *IoT Heart Patient Tracker* – **Excellent Grade, First Place**  
 
 ---
 
-## 🛠️ Technical Profile
+## 🛠️ Technical Profile  
 
-- **Mobile Development:** React Native, Expo, Redux, MobX, Context API, React Navigation, Reanimated, Lottie, Push Notifications, Deep Linking, Payment Gateway Integrations, Jest, React Native Testing Library, CI/CD workflows  
-- **Web Development:** React.js, Next.js, Material UI, Tailwind CSS, Responsive & Accessible Design  
-- **Backend Development:** PHP (Native & Laravel), Node.js, RESTful APIs, MySQL  
-- **Cloud & DevOps:** AWS, Firebase, GitHub Actions, App Store & Play Store Deployment  
-- **Best Practices:** SOLID Principles, Clean Code, Test-Driven Development, Performance Optimization
+**Software Engineering Principles**  
+- SOLID Principles, Object-Oriented Programming (OOP)  
+
+**Mobile Development**  
+- React Native CLI, Expo CLI, React Navigation  
+- Native Modules: Java (Android), Objective-C/Swift (iOS)  
+- Push Notifications (FCM, APNs), Performance Optimization  
+
+**JavaScript & Frontend**  
+- JavaScript (ES6+), TypeScript  
+- Redux, Redux-Saga, MobX, Recoil  
+- REST APIs, GraphQL, Firebase  
+
+**Testing & Debugging**  
+- Jest, Postman, Reactotron, Redux DevTools, Flipper  
+
+**Dev Tools & CI/CD**  
+- Android Studio, Xcode, npm/Yarn  
+- Fastlane, Bitrise, CircleCI  
+
+**UI/UX Design Tools**  
+- Figma, Adobe XD, Zeplin  
+
+**Version Control & Project Management**  
+- GitHub, Jira, Trello, ClickUp  
+
+**App Store Deployment**  
+- Google Play Store, Apple App Store  
+
+**Analytics & Security**  
+- Firebase Analytics, Google Analytics  
+- SSL Pinning, OAuth, JWT, Secure Storage  
+
+**Other Skills**  
+- PHP (Backend), MERN Stack, Java, Swift, Objective-C  
 
 ---
 
-## 🛠️ Core Skills & Technologies
+## 🛠️ Core Skills & Technologies  
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/> &nbsp;
@@ -68,23 +138,10 @@ Hi! I’m **Mahmoud Gamal**, a **Senior Software Developer** with **5+ years of 
 
 ---
 
-## 🌟 Selected Projects
-
-| Project | Description | Tech Stack | Link |
-|---------|------------|------------|------|
-| **BHC Delivery App** | Delivery & tracking mobile app | React Native, Expo, Firebase | [Play Store](https://play.google.com/store/apps/details?id=com.bhc.delivery) |
-| **BHC App** | Main Bnook Holding mobile app | React Native, PHP, MySQL | [Play Store](https://play.google.com/store/search?q=bhc&c=apps) |
-| **Sharjah Museum Authority App** | Museum visitor app with interactive features | React Native, Node.js | [Website](https://www.sharjahmuseums.ae/en-US) |
-| **UrPay Consumer App** | Payment integration & subscription services | React Native, Firebase, Node.js | [Play Store](https://play.google.com/store/apps/details?id=com.urpay.consumer) |
-| **UrPay Merchant App** | Payment integration & subscription services | React Native, Firebase, Node.js | [Play Store](https://play.google.com/store/apps/details?id=com.urpay.merchant) |
-
----
-
 ## 🌟 GitHub Stats
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=mahmoudgamal92&theme=dark&background=000000" alt="GitHub Streak"/>
-  <br/>
 </div>
 
 ---
